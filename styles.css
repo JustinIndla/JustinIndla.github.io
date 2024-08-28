@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffff;
+}
+
+p {
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+.paragraph-margins {
+    margin-left: 4em;
+    margin-right: 4em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1.5em;
+    background-color: rgb(179, 230, 213);
+    border-radius: 30px;
+    border: #7ca5ba;
+    border-style: solid;
+    border-width: 3px;
+}
