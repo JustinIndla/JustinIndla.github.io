@@ -7,6 +7,18 @@ p {
     color: blanchedalmond;
 }
 
+.menu {
+    margin-left: 2em;
+    margin-right: 2em;
+    background-color: rgb(179, 230, 213);
+    border-style: solid;
+    border-color: rgb(14, 85, 60);
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 0.5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .paragraph-margins {
     margin-left: 4em;
     margin-right: 4em;
